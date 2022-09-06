@@ -1,0 +1,7 @@
+.container{
+    display: grid;
+    gap: 3rem;
+    text-align: center;
+    padding: 33px;
+    scroll-snap-align: 44px;
+}

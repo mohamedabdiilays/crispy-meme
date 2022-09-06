@@ -1,0 +1,6 @@
+.ak img{
+    display: flex;
+    border-radius: 30px;
+    width: 40%;
+    content: icon;
+}

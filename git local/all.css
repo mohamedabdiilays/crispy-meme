@@ -1,0 +1,14 @@
+.container{
+   background-color: whitesmoke;
+   border-radius: 30px;
+   display: flex
+  
+}
+
+ul{
+    justify-content: space-evenly;
+   
+    gap: 3rem;
+    text-decoration: none;
+    margin: 30px;
+}

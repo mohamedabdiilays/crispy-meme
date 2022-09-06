@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: white;
+}
+body{
+    background-color: indigo;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    padding: 2rem;
+    gap: 40px;
+    align-items: center;
+
+}
+
+.midig{
+    align-items: center;
+}
+button{
+    background: transparent;
+    border: blueviolet;
+    border-radius: 40px;
+    color: indigo;
+}
